@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple web project. 
-Adding a line.
+Adding a line. From another branch.
 
 ## Introduction
 This is a web project for a GitHub course
