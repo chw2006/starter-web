@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple web project
+This is a simple web project. 
+Adding a line.
 
 ## Introduction
 This is a web project for a GitHub course
