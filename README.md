@@ -10,3 +10,6 @@ This is a web project for a GitHub course
 ## How to Contribute
 
 ## Deployment
+
+### Copyright
+Copyright 2022
