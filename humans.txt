@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sam Sepiol -- Hacker -- @samsepi0l
 
 # THANKS
 
